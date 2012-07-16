@@ -1,6 +1,6 @@
 # Change Hash Syntax
 
-This plugin chnages Ruby hash syntax to 1.9
+This plugin changes Ruby hash syntax to 1.9
 
     # before
     hash = { :one => 1, :two => 2 }
@@ -20,7 +20,7 @@ to restrict the portion of the file that gets fixed.
     git clone git://github.com/ck3g/vim-change-hash-syntax.git
     cp vim-change-hash-syntax/plugin/change-hash-syntax.vim ~/.vim/plugin/
 
-# Licence
+# License
 
 Distributed under the same terms as Vim itself.
 See `:help license`.
